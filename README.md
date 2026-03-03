@@ -10,6 +10,23 @@
 
 ### [📦 Репозиторий курса 2025 г.](https://github.com/rbtsv/TRPL25/tree/main)
 
+### Материалы по темам
+
+- ***LR-анализ**
+  - 🧑‍🏫 Видеолекции [1](https://www.youtube.com/watch?v=Tkm8ns3ZSE0&list=PL7ozpw-eyYgCMvuTNIWIz1ZzRybdiysm-&index=13) и [2](https://www.youtube.com/watch?v=61U7lJR5ZTQ&list=PL7ozpw-eyYgCMvuTNIWIz1ZzRybdiysm-&index=14)
+  - 🖥️ [Презентация](https://www.rubtsov.su/public/fl/2019/LR-slides.pdf)
+  - 📜 [Учебный текст про LR-анализ](https://www.rubtsov.su/public/fl/2020/LR_text.pdf)
+- **PEG**
+  - 🖥️ [Презентация с лекции](./PEG/RubtsovNov5-2025.pdf) 
+  - 📄 Статья [Computational Model for Parsing Expression Grammars](https://arxiv.org/abs/2406.14911)
+    - С изложением, которое было на лекции
+
+  - 📜 [Учебный текст по PEG](./PEG/PEG_text.pdf)
+  - 🔗 [Peggy.js](https://peggyjs.org)
+    - 💻 [PEG-грамматики с лекции](./PEG/Lecture_5_examples.peg)
+  - 🧑‍🏫 Доклад [Computational model for parsing expression grammars](https://flat.fc.up.pt/2025-11-05-AlexanderRubtsov-computational_model_parsing_expression_grammars/)
+
+
 ## 📖 Литература 
 
 - *Хопкрофт Д., Мотвани Р., Ульман Д.*

@@ -1,0 +1,21 @@
+S = (&(ANBN"c")) As BNCN
+ANBN = "a" ANBN "b" / "ab"
+As = "a" As / "a"
+BNCN = "b" BNCN "c" / "bc"
+
+S = !(ANBN) ANY
+ALPH = "a" / "b" / "c"
+ANY = ALPH ANY /  ALPH
+ANBN = "a" ANBN "b" / "ab"
+ANCN = "a" ANCN "c" / "ac" 
+
+
+S = !(ANBN EOF) ANYe //complement to {a^n b^n : n ≥ 1}
+ANBN = "a" ANBN "b" / "ab"
+As = "a" As / "a"
+BNCN = "b" BNCN "c" / "bc"
+ALPH = "a"/"b"/"c"
+ANY = ALPH ANY / ALPH
+ANYe = ALPH ANYe / ""
+
+EOF = !ANY 
