@@ -25,6 +25,14 @@
   - 🔗 [Peggy.js](https://peggyjs.org)
     - 💻 [PEG-грамматики с лекции](./PEG/Lecture_5_examples.peg)
   - 🧑‍🏫 Доклад [Computational model for parsing expression grammars](https://flat.fc.up.pt/2025-11-05-AlexanderRubtsov-computational_model_parsing_expression_grammars/)
+- **LISP**
+  - 📖 Книга [SICP](#SICP)
+  - ⌨️[Код с лекции](./LISP)
+  - 🌀 [Racket](https://racket-lang.org/)
+  - 🔗[LISP_JS](https://github.com/rbtsv/LISP_JS)
+- **Haskell**
+  - ⌨️[Код с лекции](./Haskell/Lectures)
+
 
 
 ## 📖 Литература 
