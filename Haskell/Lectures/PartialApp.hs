@@ -1,5 +1,6 @@
 f' x y z = x + y + z 
---f'' :: Num a => a -> a -> a
+--f'' :: Num a => a -> a -> a-> a
+f'' :: Num a => a -> a -> a-> a
 f'' = \x y z -> x + y + z 
 f =  \x -> (\y -> (\z -> x + y + z))
 
